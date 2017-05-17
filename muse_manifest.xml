@@ -1,0 +1,54 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/N3BB3Z4R/fnk" resolutions="1x" timestamp="1495064261458">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_master.css" crc="3899606243" ref="sign:faq:gigs:index"/>
+    <file name="sign.css" crc="3761929527" ref="sign"/>
+    <file name="faq.css" crc="3956409584" ref="faq"/>
+    <file name="gigs.css" crc="4081207433" ref="gigs"/>
+    <file name="index.css" crc="491901956" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="gigs:index:sign:faq"/>
+    <file name="museutils.js" crc="4232573551" ref="gigs:index:sign:faq"/>
+    <file name="whatinput.js" crc="86476730" ref="gigs:index:sign:faq"/>
+    <file name="museconfig.js" crc="4152223963" ref="gigs:index:sign:faq"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="gigs:index:sign:faq"/>
+    <file name="webpro.js" crc="3770351119" ref="gigs:sign:faq"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="gigs:faq"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="gigs:index:sign:faq"/>
+    <file name="html5shiv.js" crc="4241844378" ref="gigs:index:sign:faq"/>
+    <file name="require.js" crc="4234670167" ref="gigs:index:sign:faq"/>
+    <file name="form_check.php" crc="3841221102" ref="sign"/>
+    <file name="form_throttle.php" crc="4048049783" ref="sign"/>
+    <file name="form_process.php" crc="3899230280" ref="sign"/>
+    <file name="form-u809.php" crc="3835426865" ref="sign"/>
+  </folder>
+  <folder name="images">
+    <file name="u116-7.png" crc="4131575523" ref="gigs:index:sign:faq"/>
+    <file name="u130-4.png" crc="408534623" ref="gigs:index:sign:faq"/>
+    <file name="u123-4.png" crc="4002887290" ref="gigs:index:sign:faq"/>
+    <file name="u321-4.png" crc="3883047673" ref="gigs:index:sign:faq"/>
+    <file name="u354-4.png" crc="3993571131" ref="gigs:index:sign:faq"/>
+    <file name="u279-4.png" crc="61876675" ref="gigs:index:sign:faq"/>
+    <file name="u788-5.png" crc="4245869150" ref="gigs"/>
+    <file name="u791-5.png" crc="4082445573" ref="gigs"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u286.png" crc="4284220462" ref="index"/>
+    <file name="u286-r.png" crc="493279906" ref="index"/>
+    <file name="u295.png" crc="178327400" ref="index"/>
+    <file name="u295-r.png" crc="3914883276" ref="index"/>
+    <file name="road.jpg" crc="390117498" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="509767820" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="386417028" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+  </folder>
+  <file name="gigs.html" crc="319384717" seo="true" mt="1495064236660" redirect="true"/>
+  <file name="index.html" crc="4063627492" seo="true" mt="1495064236660" redirect="true"/>
+  <file name="sign.html" crc="32422746" seo="true" mt="1495064236660" redirect="true"/>
+  <file name="faq.html" crc="4024299121" seo="true" mt="1495064236660" redirect="true"/>
+</manifest>
