@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/N3BB3Z4R/fnk" resolutions="1x" timestamp="1495064261458">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/N3BB3Z4R/fnkfnk" resolutions="1x" timestamp="1495067399640">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_master.css" crc="3899606243" ref="sign:faq:gigs:index"/>
-    <file name="sign.css" crc="3761929527" ref="sign"/>
-    <file name="faq.css" crc="3956409584" ref="faq"/>
-    <file name="gigs.css" crc="4081207433" ref="gigs"/>
-    <file name="index.css" crc="491901956" ref="index"/>
+    <file name="master_master.css" crc="3825261808" ref="sign:faq:gigs:index"/>
+    <file name="sign.css" crc="4120396087" ref="sign"/>
+    <file name="faq.css" crc="168472199" ref="faq"/>
+    <file name="gigs.css" crc="3832055316" ref="gigs"/>
+    <file name="index.css" crc="4031358151" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="gigs:index:sign:faq"/>
@@ -47,8 +47,8 @@
       <caption webpage="faq" alt=""/>
     </file>
   </folder>
-  <file name="gigs.html" crc="319384717" seo="true" mt="1495064236660" redirect="true"/>
-  <file name="index.html" crc="4063627492" seo="true" mt="1495064236660" redirect="true"/>
-  <file name="sign.html" crc="32422746" seo="true" mt="1495064236660" redirect="true"/>
-  <file name="faq.html" crc="4024299121" seo="true" mt="1495064236660" redirect="true"/>
+  <file name="gigs.html" crc="337725802" seo="true" mt="1495067060327" redirect="true"/>
+  <file name="index.html" crc="3827720509" seo="true" mt="1495067258802" redirect="true"/>
+  <file name="sign.html" crc="503604772" seo="true" mt="1495067060327" redirect="true"/>
+  <file name="faq.html" crc="163955231" seo="true" mt="1495067060327" redirect="true"/>
 </manifest>
