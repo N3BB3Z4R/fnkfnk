@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://github.com/N3BB3Z4R/fnkfnk/index.html</loc>
-    <lastmod>2017-05-18</lastmod>
+    <lastmod>2017-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/N3BB3Z4R/fnkfnk/sign.html</loc>
-    <lastmod>2017-05-18</lastmod>
+    <lastmod>2017-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/N3BB3Z4R/fnkfnk/gigs.html</loc>
-    <lastmod>2017-05-18</lastmod>
+    <lastmod>2017-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/N3BB3Z4R/fnkfnk/faq.html</loc>
-    <lastmod>2017-05-18</lastmod>
+    <lastmod>2017-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -31,6 +31,15 @@
     </image:image>
     <image:image>
       <image:loc>https://github.com/N3BB3Z4R/fnkfnk/images/trees.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://github.com/N3BB3Z4R/fnkfnk/about.html</loc>
+    <lastmod>2017-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://github.com/N3BB3Z4R/fnkfnk/images/club1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
